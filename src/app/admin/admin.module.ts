@@ -12,15 +12,16 @@ import { TableComponent } from './components/table/table.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { ProductsListComponent } from './components/products-list/products-list.component';
 import { FormProductComponent } from './components/form-product/form-product.component';
+import { ProductsEditComponent } from './components/products-edit/products-edit.component';
 
 
 @NgModule({
-  declarations: [ProductFormComponent, NavComponent, TableComponent, DashboardComponent, ProductsListComponent, FormProductComponent],
+  declarations: [ProductFormComponent, NavComponent, TableComponent, DashboardComponent, ProductsListComponent, FormProductComponent, ProductsEditComponent],
   imports: [
     CommonModule,
     AdminRoutingModule,
     ReactiveFormsModule,
     MaterialModule,
-  ]
+  ] 
 })
 export class AdminModule { }
