@@ -9,6 +9,7 @@ import { ProductsListComponent } from './components/products-list/products-list.
 import { FormProductComponent } from './components/form-product/form-product.component';
 import { ProductsEditComponent } from './components/products-edit/products-edit.component';
 
+
 const routes: Routes = [
   {
     path: '',

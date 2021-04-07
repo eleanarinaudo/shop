@@ -22,6 +22,6 @@ import { ProductsEditComponent } from './components/products-edit/products-edit.
     AdminRoutingModule,
     ReactiveFormsModule,
     MaterialModule,
-  ] 
+  ]
 })
 export class AdminModule { }

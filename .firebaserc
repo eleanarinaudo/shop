@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "store-f3c4d": {
+      "hosting": {
+        "platzi-store": [
+          "store-f3c4d"
+        ]
+      }
+    }
+  }
+}
