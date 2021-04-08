@@ -1,8 +1,8 @@
 {
   "hosting": [
     {
-      "target": "platzi-store",
-      "public": "dist/platzi-store",
+      "target": "store",
+      "public": "dist/store",
       "ignore": [
         "firebase.json",
         "**/.*",
